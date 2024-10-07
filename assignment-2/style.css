@@ -1,0 +1,24 @@
+.start{
+    background-color: #ddd;
+   padding: 10px;
+}
+a{
+    
+margin: 15px;
+padding: 20px;
+border-radius: 5px;
+}
+img{
+    display: flex;
+    justify-content: flex-start;
+    margin: 15px;
+padding: 20px;
+border-radius: 5px;
+}
+
+
+
+p{
+    background-color: #b45555;
+
+}
